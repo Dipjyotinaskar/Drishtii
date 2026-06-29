@@ -1,0 +1,10 @@
+opencv-python
+mediapipe
+protobuf
+numpy
+streamlit
+pyttsx3
+scikit-learn
+requests
+fastapi
+uvicorn
